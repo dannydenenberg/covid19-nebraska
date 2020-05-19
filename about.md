@@ -4,21 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Marat is heavily inspired by [L'Ami du peuple](https://en.wikipedia.org/wiki/L%27Ami_du_peuple), a newspaper written by [Jean-Paul Marat](https://en.wikipedia.org/wiki/Jean-Paul_Marat) during the French Revolution, and thus may not be used to promote any form of totalitarianism and should rather be used to advance democracy and revive the Age of Reason.
+<span id="larger">1.</span> Sadly, the current presidential administration (2016-2020) is not as fact based as we would like.
 
-Marat is fully responsive, light and fast.
+<span id="larger">2.</span> The ripple effects of this continuous lapse of judgement is seen throughout the U.S. on a daily basis.
 
-1. Adapt the \_config.yml file
-2. Replace/Delete the posts
-3. Change this page: about.md
-4. Change or add your links in the nav.yml file located in the \_data folder
-5. Replace favicon.ico in root folder
-6. Customise the 404.md page in the root directory
-7. Enlighten the masses!
+<span id="larger">3.</span> Nebraskan's MUST be informed of what the state government's response to COVID19 is and how it effects the economic progress and social heal sustainability of our citizens.
 
-Plugins:
+<span id="larger">4.</span> Nebraskan's MUST live in a fact based world.
 
-Marat includes the following plugins.
+---
 
-* [jekyll-roman](https://github.com/paulrobertlloyd/jekyll-roman)
-* [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
+### Contact me
+
+**By phone**: 650-793-0157
+
+**By email**: danny@denenberg.com
+
+
+
+
+<style>
+#larger {
+  font-weight: bold;
+  font-size: 4rem;
+}
+</style>
